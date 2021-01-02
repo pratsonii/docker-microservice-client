@@ -15,7 +15,7 @@ public class BootMicroservice1Application {
 	
 	@GetMapping
 	public String getHello() {
-		return "from Microservive 1";
+		return "from Microservice 1";
 	}
 
 }
